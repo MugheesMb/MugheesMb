@@ -4,6 +4,5 @@
 
 
 
-💬  People ask him about OR skills. 
-#  Javascript/ES8 ,  React/Redux/Hooks , Node.js/express.js , Firebase/Firestore/Authentication , PWA  ,  Stripe Payment <code>
+💬  People ask him about OR skills. ```  Javascript/ES8 ,  React/Redux/Hooks , Node.js/express.js , Firebase/Firestore/Authentication , PWA  ,  Stripe Payment ```
 
