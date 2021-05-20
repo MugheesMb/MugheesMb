@@ -7,6 +7,6 @@
 💬  People ask him about OR skills. ```  Javascript/ES8 ,  React/Redux/Hooks , Node.js/express.js , Firebase/Firestore/Authentication , PWA  ,  Stripe Payment ```
 
 
- :basecampy:	Portfolio Web : https://mugy.codes/
+ :basecampy:	Portfolio Web : https://mugy.tech/
  
  
