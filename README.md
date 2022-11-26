@@ -5,7 +5,7 @@ In the end, I am on a journey to never stop learning ✔ <h6>
 
 
 
-💬  People ask him about OR skills. ```  Flutter , Javascript/ES6 ,  React/Redux/Hooks , Node.js/express.js , MongoDB ,  Firebase/Firestore/Authentication , PWA   ,  Stripe Payment ```
+💬  People ask him about OR skills. ```  Flutter , Solana block chain, TypeScript,  Javascript/ES6 ,  React/Redux/Hooks , Node.js/express.js , MongoDB ,  Firebase/Firestore/Authentication , PWA   ,  Stripe Payment ```
 
 
  :basecampy:	Portfolio Web : https://mugy.codes/
