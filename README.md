@@ -1,7 +1,19 @@
 # Let's talk about Mughees 	 <h1> 
   
-#### Hola ! I'm Mughees,a Software Engineer or Mobile App developer  and a Computer Science & Engineering student. I'm highly proficient in C, C++, React, Flutter , JavaScript, TypeScript, Solidity  and its technologies.Most of the time i work on backend with Node.js, Mongo or firebase while actively participating in hackathons. I like to learn new technology and stay up-to date with the technology advancements and trends. I love to participate in Web3 Hackathons.
+#### Hola ! I'm Mughees, Flutter engineer building mobile apps — and AI agents that verify their own output.
+
+4+ years shipping production cross-platform applications for clients across healthcare, logistics and consumer products. Google Summer of Code '23 contributor at GitLab. MLH Top 50 Hacker, 2023.
 In the end, I am on a journey to never stop learning ✔ <h6>
+
+### What I work on
+
+Mobile — Flutter, Dart, [FILL: Riverpod / Bloc / Provider], Firebase (Auth, Firestore, Cloud Functions), REST integration, offline-first architecture, App Store & Play Store release
+
+AI in production — LLM integration (OpenAI, Claude, Gemini), structured outputs, agent tool use and multi-step execution, on-device inference with MLX, vector search and RAG, secure API key handling on mobile clients
+
+Backend — Node.js, Python, Firebase, PostgreSQL, AWS Lambda
+
+Automation — n8n workflow systems built with error handling, retry logic and human review gates
 
 
 
