@@ -1,25 +1,26 @@
-# Let's talk about Mughees 	 <h1> 
-  
-#### Hola ! I'm Mughees, Flutter engineer building mobile apps — and AI agents that verify their own output.
+# Mughees Pervaiz
 
-4+ years shipping production cross-platform applications for clients across healthcare, logistics and consumer products. Google Summer of Code '23 contributor at GitLab. MLH Top 50 Hacker, 2023.
-In the end, I am on a journey to never stop learning ✔ <h6>
+AI engineer building **AI into mobile apps and real products**.
 
-### What I work on
+## Highlights
+- **Google Summer of Code 2023 @ GitLab**: [Pajamas Migration] ([https://gitlab.com/-/snippets/2587070])
+- **MLH Top 50 Hacker** ([2022](https://top.mlh.com/2023/profiles/mughees-pervaiz)) and MLH Fellow twice. 
+- **Top Rated freelancer on Upwork**: 100% job success, 19 contracts, 411 hours
+- **Google Solution Challenge 2022, global Top 50**: dyslexia support app
+- **3x hackathon winner**, 33 hackathons, 14 shipped projects ([Devpost](https://devpost.com/Mr-Mb/))
+- **AI Engineer, GETTR (2025)**: LLM pipelines for news ranking, summarisation and deduplication
+- Organiser, Google Developer Group Lahore since 2021
 
-Mobile — Flutter, Dart, [FILL: Riverpod / Bloc / Provider], Firebase (Auth, Firestore, Cloud Functions), REST integration, offline-first architecture, App Store & Play Store release
+## Work i am proud of
+| Project | What it does |
+|---|---|
+| Last Look | Agent pipeline that verifies its own output before acting |
+| AI Digital Stethoscope | Heartbeat analysis from smartphone audio |
+| Dyslexia app | Reading support app, Google Solution Challenge Top 50 |
 
-AI in production — LLM integration (OpenAI, Claude, Gemini), structured outputs, agent tool use and multi-step execution, on-device inference with MLX, vector search and RAG, secure API key handling on mobile clients
+## Tools
+**AI:** Python, LLM APIs, embeddings and vector search, Redis
+**Engineering:** Flutter/Dart, Swift, JavaScript, Node.js, Firebase, Supabase MySQL
 
-Backend — Node.js, Python, Firebase, PostgreSQL, AWS Lambda
-
-Automation — n8n workflow systems built with error handling, retry logic and human review gates
-
-
-
-💬  People ask him about OR skills. ```  Flutter , Vue.js Javascript/ES6 ,  React/Redux/Hooks , Node.js/express.js , Solidity,  MongoDB ,  Firebase/Firestore/Authentication , PWA   ,  Stripe Payment ```
-
-
- :basecampy:	Portfolio Web : https://devpost.com/Mr-Mb/
- 
- 
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mughees-mb/) | [mr.mugy4@gmail.com]
