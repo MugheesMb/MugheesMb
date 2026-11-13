@@ -19,8 +19,8 @@ AI engineer building **AI into mobile apps and real products**.
 | Dyslexia app | Reading support app, Google Solution Challenge Top 50 |
 
 ## Tools
-- **AI:** Python, LLM APIs, embeddings and vector search, Redis. |
-- **Engineering:** Flutter/Dart, Swift, JavaScript, Node.js, Firebase, Supabase, MySQL
+- **AI:** Python, LLM APIs, embeddings and vector search, Redis.
+- **Engineering:** Flutter/Dart, Swift, JavaScript, Node.js, Firebase, Supabase, MySQL.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/mughees-mb/) | [mr.mugy4@gmail.com]
